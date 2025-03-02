@@ -1,6 +1,6 @@
 # esp32wifidecoy
 
-# 🚀 ESP32 Wi-Fi Decoy Spoofer
+# 🚀 ESP32 Wi-Fi Decoy Decoy
 
 A simple **ESP32-WROOM-32U** project that **spoofs Wi-Fi access points** with randomly generated SSIDs and **random MAC addresses** every 45 seconds.
 
